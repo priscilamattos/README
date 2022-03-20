@@ -15,5 +15,8 @@ I’m Priscila, a junior front-end developer and ux designer, who loves to built
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&repo=priscilamattos&repo=github-readme-stats)](https://github.com/priscilamattos/planted-project-1)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&repo=planted-project-1)](https://github.com/priscilamattos/planted-project-1)
+
+
 ## 💼 Skills
 
