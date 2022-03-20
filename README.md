@@ -14,7 +14,7 @@ I’m Priscila, a junior front-end developer and ux designer, who loves to built
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/priscilamattos/planted-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&repo=planted-project-1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&theme=omni&repo=planted-project-1" />
 </a>
 <a href="https://github.com/priscilamattos/arora_assignment-juno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&repo=arora_assignment-juno" />
