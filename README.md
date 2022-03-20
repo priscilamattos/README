@@ -9,3 +9,5 @@ I’m Priscila, a junior front-end developer and ux designer, who loves to built
 
 ## 📌 Pinned Repositories
 
+## 💼 Skills
+
