@@ -18,5 +18,7 @@ I’m Priscila, a junior front-end developer and ux designer, who loves to built
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&repo=arora_assignment-juno)](https://github.com/priscilamattos/arora_assignment-juno)
 
 
-## 💼 Skills
+## 💻 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilamattos&layout=compact)](https://github.com/priscilamattos/github-readme-stats)
 
