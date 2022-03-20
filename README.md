@@ -17,11 +17,11 @@ I’m Priscila, a junior front-end developer and ux designer, who loves to built
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&theme=omni&repo=planted-project-1" />
 </a>
 <a href="https://github.com/priscilamattos/arora_assignment-juno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&repo=arora_assignment-juno" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscilamattos&theme=omni&repo=arora_assignment-juno" />
 </a>
 
 
 ## 💻 Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilamattos&layout=omni)](https://github.com/priscilamattos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilamattos&theme=omni&layout=omni)](https://github.com/priscilamattos/github-readme-stats)
 
