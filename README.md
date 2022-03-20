@@ -8,7 +8,7 @@ Hello 🦄
 I’m Priscila, a junior front-end developer and ux designer, who loves to built beuatiful and user-friendly interfaces. 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilamattos&show_icons=true&theme=panda)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilamattos&show_icons=true&theme=omni)
 
 
 ## 📌 Pinned Repositories
@@ -20,5 +20,5 @@ I’m Priscila, a junior front-end developer and ux designer, who loves to built
 
 ## 💻 Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilamattos&layout=compact)](https://github.com/priscilamattos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilamattos&layout=omni)](https://github.com/priscilamattos/github-readme-stats)
 
