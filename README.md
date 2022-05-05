@@ -2,7 +2,6 @@
 [![Priscila's GitHub Banner](Site_Background.png)](https://www.priscilamattos.com)
 
 
-
 Hello 🦄
 
 I’m Priscila, a junior front-end developer and ux designer, who loves to built beautiful and user-friendly interfaces. 
@@ -28,3 +27,7 @@ I’m Priscila, a junior front-end developer and ux designer, who loves to built
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilamattos&theme=omni&layout=omni)](https://github.com/priscilamattos/github-readme-stats)
 
+
+## Social Media
+
+Add me on LinkedIn: https://www.linkedin.com/in/priscila-mattos/
